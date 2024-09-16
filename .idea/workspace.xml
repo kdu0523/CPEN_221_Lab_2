@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="168e44f2-1bb4-40f0-91e3-0eb27d4e2df9" name="Changes" comment="2024/09/15&#10;- Added: constructor, total mass calculation, sequence function, part of isProtein." />
+    <list default="true" id="168e44f2-1bb4-40f0-91e3-0eb27d4e2df9" name="Changes" comment="2024/09/15&#10;- Added: constructor, total mass calculation, sequence function, part of isProtein.">
+      <change beforePath="$PROJECT_DIR$/src/main/java/DNA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DNA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +28,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kdu0523"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/kdu0523/CPEN_221_Lab_2.git",
@@ -71,7 +80,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726460024815</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2024/09/15&#10;- Added: constructor, total mass calculation, sequence function, part of isProtein.">
+      <option name="closed" value="true" />
+      <created>1726460346641</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726460346641</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
